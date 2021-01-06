@@ -1,0 +1,28 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif;
+
+}
+h1{
+    font-family: Bebas Neue;
+    font-size: 80px;
+    color: #363958;
+}
+.name-highlight{
+    color: #FF8367;
+
+}
+p{
+    font-family: Roboto Regular;
+    font-size: 16 px;
+    color: #3E3E3E;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
